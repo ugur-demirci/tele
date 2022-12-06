@@ -10,7 +10,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h9Q88CW.png" group-title="TR ULUSAL",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="TR ULUSAL",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?st=uD02x9WeiNP1wOOEDnbcqg&e=1669177214&sid=4x36hjphfry2&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1670362893&st=JwQZXjiQ-CIl-KlQeYKm3Q&sid=4yg5ay3f73oc&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:0 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="TR ULUSAL",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR ULUSAL",Show TV
