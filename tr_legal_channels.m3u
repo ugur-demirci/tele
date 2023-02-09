@@ -45,6 +45,10 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:0 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR HABER",Halk TV
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV1.tr" tvg-name="Halk TV",Halk TV
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR HABER",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR HABER",Bloomberg HT
