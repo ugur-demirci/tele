@@ -38,7 +38,7 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:0 tvg-name="Habertürk" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR ULUSAL",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR ULUSAL",Bloomberg HT
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 tvg-name="Ekoturk" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR ULUSAL",Ekoturk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:0 tvg-name="Haber Global" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.png" group-title="TR ULUSAL",Haber Global
