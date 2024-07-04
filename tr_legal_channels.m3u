@@ -50,8 +50,10 @@ https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:0 tvg-name="SÖZCÜ TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="TR ULUSAL",SÖZCÜ TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="TR ULUSAL",TRT Belgesel
-https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+https://trtbelgesel.blutv.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:0 tvg-name="TGRT Belgesel" tvg-logo="https://i.imgur.com/zhCeooV.png" group-title="TR ULUSAL",TGRT Belgesel
-https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:0 tvg-id="TRT3.tr" tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/jiTZGme.png" group-title="TR ULUSAL",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="SPORTS TV" tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="TR ULUSAL",Sports TV
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
