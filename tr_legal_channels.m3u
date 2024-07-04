@@ -4,14 +4,14 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h9Q88CW.png" group-title="TR ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-name="ATV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="TR ULUSAL",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1670362893&st=JwQZXjiQ-CIl-KlQeYKm3Q&sid=4yg5ay3f73oc&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://canlitvulusal.xyz/live/atv/index.m3u8
 #EXTINF:0 tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="TR ULUSAL",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 tvg-name="Show TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR ULUSAL",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="TR ULUSAL",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:0 tvg-name="Fox Turkey" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Fox34.png" group-title="TR ULUSAL",NOW
+#EXTINF:0 tvg-name="NOW" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="TR ULUSAL",NOW
 https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 #EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR ULUSAL",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
