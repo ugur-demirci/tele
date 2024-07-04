@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL",TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h9Q88CW.png" group-title="TR ULUSAL",TRT 2
-http://167.114.115.233:8080/trt2fhd/index.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-name="ATV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="TR ULUSAL",ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1670362893&st=JwQZXjiQ-CIl-KlQeYKm3Q&sid=4yg5ay3f73oc&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:0 tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="TR ULUSAL",Star TV
@@ -40,7 +40,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:0 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR ULUSAL",Halk TV
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:0 tvg-name="24" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="TR ULUSAL",Sözcü TV
-https://new.cache-stream.workers.dev/stream/2i8lfP9oqvk/live.m3u8
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:0 tvg-name="Habertürk" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR ULUSAL",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR ULUSAL",Bloomberg HT
