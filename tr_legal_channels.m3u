@@ -25,14 +25,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-logo="https://i.imgur.com/gnkPxVV.png" group-title="TR ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 tvg-name="A2TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png" group-title="TR ULUSAL",A2
-http://tv.34s.nl:8080/SLV2778/eTrxWNw0P2/347
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR ULUSAL",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 tvg-name="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" group-title="TR ULUSAL",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:0 tvg-id="FlashTV.tr" tvg-name="Flash TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png" group-title="TR ULUSAL",Flash TV
-http://tv.34s.nl:8080/SLV2778/eTrxWNw0P2/108048
 #EXTINF:0 tvg-name="NTV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png" group-title="TR ULUSAL",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:0 tvg-name="CNN Turk" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" group-title="TR ULUSAL",CNN Turk
