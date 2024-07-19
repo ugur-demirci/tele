@@ -57,5 +57,5 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="SPORTS TV" tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="TR ULUSAL",Sports TV
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
-#EXTINF:0 type="video" tvg-id="" tvg-name="Galip Dervis S01 E01" group-title="Series",Galip Dervis S01 E01
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1e/GalipDervi%C5%9 type="video" tvg-id="" tvg-name="Galip Dervis S01 E01" group-title="Series",Galip Dervis S01 E01
 https://teve2vod.duhnet.tv/S2/HLS_VOD/5401_2b86/2500/prog_index.m3u8?&app=com.tv2&st=zpHZg_CCUQWE9RE8jVKXOQ&e=1721218909&min=0&max=2500&app=com.tv2
