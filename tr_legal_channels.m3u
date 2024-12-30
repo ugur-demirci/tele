@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTINF:0 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL",TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h9Q88CW.png" group-title="TR ULUSAL",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:0 tvg-name="ATV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="TR ULUSAL",ATV
-https://canlitvulusal.xyz/live/atv/index.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0 tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="TR ULUSAL",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 tvg-name="Show TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR ULUSAL",Show TV
